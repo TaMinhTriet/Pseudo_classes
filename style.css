@@ -1,0 +1,13 @@
+#line-2:hover {
+  color: red;
+  font-size: 30px;
+}
+
+.di-chuot:hover {
+  color: blue;
+  font-size: 20px;
+}
+
+.nhan:active {
+  color: green;
+}
