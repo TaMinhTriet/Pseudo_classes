@@ -19,3 +19,23 @@
 .youtube:visited {
   color: purple;
 }
+
+.div_elm:empty {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.div_elm {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+h2:target {
+  color: red;
+}
+
+.anchor:visited {
+  color: red;
+}
