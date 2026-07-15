@@ -11,3 +11,11 @@
 .nhan:active {
   color: green;
 }
+
+.youtube:link {
+  color: black;
+}
+
+.youtube:visited {
+  color: purple;
+}
