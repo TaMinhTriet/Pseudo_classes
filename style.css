@@ -26,16 +26,30 @@
   height: 200px;
 }
 
-.div_elm {
-  background-color: red;
-  width: 200px;
-  height: 200px;
-}
-
 h2:target {
   color: red;
 }
 
 .anchor:visited {
   color: red;
+}
+
+p:first-child {
+  background-color: yellow;
+}
+
+p:last-child {
+  background-color: green;
+}
+
+p:nth-child(2) {
+  background-color: blue;
+}
+
+p:nth-last-child(2) {
+  background-color: pink;
+}
+
+p:only-child {
+  background-color: orange;
 }
